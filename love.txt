@@ -1,0 +1,14 @@
+<html>
+<head>
+ <title>Фомин фотограф</title>
+</head>
+<body background="development.jpg">
+<pre><font face="palatino linotype" color="FFFFFF"><H1><center>
+
+
+
+
+Страница находится в разработке, скоро здесь появятся цены и условия.
+</center></H1></font></pre>
+</body>
+</html>
